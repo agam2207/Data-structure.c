@@ -1,3 +1,5 @@
+//Print the address of all the elements in an array of 5 integers.
+
 #include <stdio.h>
 
 int main() {
